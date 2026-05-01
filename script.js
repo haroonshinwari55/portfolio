@@ -47,8 +47,8 @@ document.addEventListener('click', (e) => {
 });
 
 // =============================================
-// ACTIVE NAVIGATION LINK ON SCROLL
-// ============================================= 
+// ACTIVE NAVIGATION LINK ON SCROLll
+// ============================================ 
 
 const sections = document.querySelectorAll('section[id]');
 
