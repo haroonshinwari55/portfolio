@@ -277,9 +277,9 @@ body.dark-mode .hero {
 
 .hero-pic {
     width: 100%;
-    max-width: 500px;
-    height: auto;
-    border-radius: 15px;
+    max-width: 400px;
+    height: 400px;
+    border-radius: 50%;
     object-fit: cover;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
     transition: var(--transition);
@@ -1007,6 +1007,8 @@ body.dark-mode .nav-link.active {
 
     .hero-pic {
         max-width: 100%;
+        width: 300px;
+        height: 300px;
     }
 
     .about-pic {
