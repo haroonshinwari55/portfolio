@@ -6,7 +6,7 @@
     --primary-color: #2c5af0;
     --secondary-color: #2e7180;
     --text-dark: #1f2937;
-    --text-light: #737c8c;
+    --text-light: #010308;
     --bg-light: #f9fafb;
     --white: #ffffff;
     --border-color: #e5e7eb;
@@ -18,7 +18,7 @@ body.dark-mode {
     --text-light: #d1d5db;
     --bg-light: #1f2937;
     --white: #111827;
-    --border-color: #374151;
+    --border-color: #2a4167;
 }
 
 body.dark-mode {
