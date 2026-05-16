@@ -3,7 +3,7 @@
    ============================================= */
 
 :root {
-    --primary-color: #3f60d5;
+    --primary-color: #3156dd;
     --secondary-color: #0fcbcb;
     --text-dark: #1f2937;
     --text-light: #010308;  
@@ -19,9 +19,6 @@ body.dark-mode {
     --bg-light: #1f2937;
     --white: #111827;
     --border-color: #2a4167;
-}
-
-body.dark-mode {
     background-color: #111827;
     color: var(--text-dark);
 }
@@ -310,28 +307,6 @@ body.dark-mode .hero {
         opacity: 1;
         transform: translateX(0);
     }
-}
-
-.hero-title {
-    font-size: 3.5rem;
-    font-weight: 700;
-    margin-bottom: 1rem;
-    animation: fadeInDown 0.8s ease;
-}
-
-.hero-subtitle {
-    font-size: 1.3rem;
-    margin-bottom: 2.5rem;
-    opacity: 0.95;
-    animation: fadeInUp 0.8s ease 0.2s both;
-}
-
-.hero-cta {
-    display: flex;
-    gap: 1.5rem;
-    justify-content: center;
-    animation: fadeInUp 0.8s ease 0.4s both;
-    flex-wrap: wrap;
 }
 
 @keyframes fadeInDown {
